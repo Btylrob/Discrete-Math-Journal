@@ -13,6 +13,20 @@ This is my discrete math journal / notes from my own personal learning and all c
 - 1.1 Propositional Logic
 - 1.2 Applications of Propositions
 - 1.3 Propositional Equivalences
+- 1.4 Predicates and Quantifiers
+- 2.1 Sets
+- 2.2 Set Operations
+- 2.3 Functions
+- 4.1 Divisibility and Modular Arithmetic
+- 4.3 Primes and GCD
+- 4.4 Solving Congruencies
+- 5.1 Mathematical Induction
+- 6.1 Counting
+- 6.2 Pigeonhole Principle
+- 6.3 Permutations and Combinations
+- 6.4 Binomial Coefficients
+- 7.1 Intro Discrete Probability
+- 7.2 Probability Theory
 
 
 
